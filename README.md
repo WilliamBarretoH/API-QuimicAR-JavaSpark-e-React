@@ -1,5 +1,5 @@
 # quimicAR
-Ensino de quimica utilizando realidade aumentada
+Desenvolvimento da API para projeto quimicAR
 
 # Instruções
 #### Instalando depêndencias
